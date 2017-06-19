@@ -1,13 +1,12 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
+Landing Page for a Startup 
 
-[Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
+Customized the 'Agency'(http://startbootstrap.com/template-overviews/agency/) template of Bootstrap according to the requirements of a Startup.The objective of the landing page was to capture email signups.This template is responsive for mobile,template,desktop with the MailChimp service embedded for email marketing.Used Wufoo for creating OnePageCRM and integrated it with the template for validating the startup idea.Applied basic SEO techniques by using Google Analytics.
 
 ## Getting Started
 
 Several options are available to get started quickly:
 * [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/agency/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-agency.git`
-* Fork the repo
+
 
 ## Developing Using Source Files
 
@@ -18,20 +17,30 @@ To use the source files, you will need to have npm installed globally along with
 If you need to update the plugins included with this template, simply run the following tasks:
 * First run `npm update` to update the dependencies
 * Then run `gulp copy` to copy the new versions to their proper destinations
+you can install any good editor/IDE as per your choice.
 
-## Bugs and Issues
+-Editor
+The following editors are recommended:
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
+Sublime Text - https://www.sublimetext.com/download
+Aptana Studio 3 - http://www.aptana.com/products/studio3/download.html
+Brackets - http://brackets.io/
+Webstorm - https://www.jetbrains.com/webstorm/download/#section=windows
 
-## Creator
+-Online Editor:
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+You can also use the following online editors for learning purpose.
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+plnkr.co
+jsbin.com
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+-To embed the email marketing service, you need to signup/sign-in on MailChimp
+https://mailchimp.com/
 
-## Copyright and License
+-To create online surveys/contact form ,you need to signup/sign-in on Wufoo
+https://www.wufoo.com/
 
-Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
+
+-Web server:
+
+Use any web server such as IIS, apache etc., locally for development purpose.
