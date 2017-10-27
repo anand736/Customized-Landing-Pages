@@ -1,4 +1,4 @@
-Landing Page for a Startup 
+Landing Page for a Startup  ( https://anand736.github.io/Customized-Landing-Pages/)
 
 Customized the 'Agency'(http://startbootstrap.com/template-overviews/agency/) template of Bootstrap according to the requirements of a Startup.The objective of the landing page was to capture email signups.This template is responsive for mobile,template,desktop with the MailChimp service embedded for email marketing.Used Wufoo for creating OnePageCRM and integrated it with the template for validating the startup idea.Applied basic SEO techniques by using Google Analytics.
 
